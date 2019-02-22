@@ -10,5 +10,11 @@ Follow the process you use to setup virtual environments. Name of virtual enviro
 
 pip install requirements.txt
 
+## Running Jupyter in Virtual Environment 
+Jupyter and Jupyter Lab are install the virtual environment using the requirements.txt file. This lets you setup an isolated Jupyter environment for Tweepy testing. 
+1. Activate the virtual environment
+2. Run jupyter lab
+3. Done!
+
 ## Jupyter Notebooks for Testing
 
